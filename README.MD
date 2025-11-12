@@ -1,6 +1,6 @@
 # BNY6X V2
 
-![BNY6X V2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_2.JPG)
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_1.jpg)
 
 「BNY6X V2」は2025年に製作した60%キーボードです。  
 多親指キー＋矢印キー配列、MXとロープロに両対応、GH60互換ケース対応、の特徴があります。
@@ -14,15 +14,14 @@
 60%レイアウト  
 親指キー、矢印キーを備えた最下行  
 
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_5.png)
 [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
-
-<!-- 画像 -->
 
 - **対応マウント方式**
 GH60互換設計で、6か所のネジ穴が設けられています。  
 加えて外周に5か所の切り欠きが設けられており、独自のプレートマウントにも対応します。
 
-<!-- 画像 -->
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_4.jpg)
 
 - **対応スイッチ**
 「Cherry MX 」または「KS-33B GateronLowProfile 3.0」に互換性のあるスイッチが使用できます。  
@@ -34,13 +33,12 @@ GH60互換設計で、6か所のネジ穴が設けられています。
 背面type-C横には3方向（左、右、押し込み）のレバースイッチが取り付け可能です。  
 既製品のGH60互換ケースに使用する際は、干渉するためレバースイッチは実装しない必要があります。
 
-<!-- 画像 -->
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_6.JPG)
 
 - **対応スタビライザー**
 プレートマウントのスタビライザーにのみ対応します。  
 またMXスイッチの場合スタビライザー下が開いているため、ケース取り付け前に予めスタビライザー部のキーキャップは取り付けておく必要があります。
 
-<!-- 画像 -->
 
 - **Firmware**
 QMK Fimware, [BNY6X V2 codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keyboards/0_tsuiha/bny6x_v2)
@@ -51,19 +49,17 @@ QMK Fimware, [BNY6X V2 codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keybo
 
 1ピースでCNC加工を想定したGH60互換トレイケースです。
 
-<!-- 画像 -->
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_2.jpg)
 
 - **マウント箇所**
 左右4か所のみネジ受けを設けており、中央2か所は省いています。  
 ねじ止めで位置を固定し、ボトムフォームで基板を保持する機構です。
 
-<!-- 画像 -->
 
 - **フロントベゼル幅**
 フロントトップのベゼルをカットし幅を抑えています。  
 指付け根でのキー入力時に干渉しにくいです。
 
-<!-- 画像 -->
 
 - **低背設計**
 高さを抑えているため、手前部に背の高い実装部品や下付きソケットの基板の場合ケースに干渉する恐れがあります。
@@ -71,13 +67,11 @@ QMK Fimware, [BNY6X V2 codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keybo
 - **チルト角**
 6度固定です。
 
-<!-- 画像 -->
 
 - **type-C開口**
 上方向に余裕があるため、手前部に基板の干渉がある場合、スタンドオフにスペーサを噛ませることで干渉を回避できます。  
 また横方向のtype-C位置はGH60、Wootingの両方に対応します。
 
-<!-- 画像 -->
 
 ---
 
@@ -86,22 +80,19 @@ QMK Fimware, [BNY6X V2 codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keybo
 BNY6X V2用に設計しました。  
 2ピースでCNC加工を想定したKS33-Bスイッチ用のBNY6X V2 PCBケースです。
 
-<!-- 画像 -->
+![BNY6X V2 Overview](https://github.com/Tsuiha/BNY6XV2/blob/main/pic/bny6xv2_3.jpg)
 
 - **対応スタビライザー**
 Gateron KS-57　ロープロファイルスイッチ用スタビライザーに対応しています。
 
-<!-- 画像 -->
 
 - **マウント方式**
 BNY6X V2 PCBの切り欠き部を介しトップケースとボトムケースとをねじ止めしマウントします。
 
-<!-- 画像 -->
 
 - **レバースイッチ**
 背面はレバースイッチの実装に対応しています。
 
-<!-- 画像 -->
 
 - **コンパクト設計**
 高さとベゼル幅を抑えたコンパクトな外形です。
@@ -110,4 +101,5 @@ BNY6X V2 PCBの切り欠き部を介しトップケースとボトムケース�
 6度固定です。
 
 <!-- 画像 -->
+
 
