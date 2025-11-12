@@ -1,0 +1,12 @@
+bom,"		specification example of supplier"
+J1,"			typeC receptacle topmount 16+8pins GCT USB4105-GF-A"
+U1,"			STM STM32F072CBT6"
+U2,"			onsemi CM1293A-04SO"
+U3,"			3.3V LDO SOT23 TI TLV77133PDBVR"
+side switch,sp3t TMHU27 Akitsukidenshi
+boot switch,C&K spst pts526
+"C1,C3","	1uF Capacitor 0603(1608m)"
+C2,"			4.7uF Capacitor 0603(1608m)"
+C4-C7,"		0.1uF Capacitor 0603(1608m)"
+"R1,R2","	5.1kohm Resistor 0603(1608m)"
+R3,"			10kohm Resistor 0603(1608m)"
